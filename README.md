@@ -61,3 +61,9 @@ The software section of the proposed idea is very important because comparing an
 ## Prototype Model:
 
 ![The Prototype Model](../master/images/PrototypeModel.png)
+
+## Show your support
+Give a ⭐️ if this project helped you!
+
+## Contact
+Please feel free to reach out to me **@harsharora.engineer@gmail.com** for any further queries or more info.
